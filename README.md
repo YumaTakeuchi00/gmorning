@@ -1,5 +1,5 @@
 # gmorning
- ＜？php
+ <？php
        echo "Hello World!";
 ?>
       
